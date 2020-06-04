@@ -33,8 +33,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 Follow the instructions in this link in order to install all the dependencies required to run this project:<br/>
 https://github.com/udacity/deep-reinforcement-learning#dependencies
 
-Download the `Project 1 - Navigation` into your computer:<br/>
-https://github.com/jckuri/DeepRL-Navigation
+Download the `Udacity-DeepRL-Project-1-Navigation` into your computer:<br/>
+https://github.com/Kamrujjaman-Rabin/Udacity-DeepRL-Project-1-Navigation
 
 Follow the instructions in this link in order to install the Unity environment required to run this project:<br/>
 https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation#getting-started
