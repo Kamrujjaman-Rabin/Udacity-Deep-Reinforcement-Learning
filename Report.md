@@ -48,4 +48,13 @@ After training, the saved model was loaded and tested for 20 episodes. Here are 
 
 Ideas about Future Works:
 
-1. I want to apply DeepReinforcement Learning in the field of Hydroinformatics and publish my researches in Springer Water. I want to be the best RL Research Assistant my professor will ever have.
+1.More experiments can be done to increase the performance of agent by applying different extensions of DQN:
+
+Double DQN (DDQN)
+Prioritized experience replay
+Dueling DQN
+A3C
+Distributional DQN
+Noisy DQN
+
+2. Personally, I want to apply DeepReinforcement Learning in the field of Hydroinformatics and publish my researches in Springer Water. I want to be the best RL Research Assistant my professor will ever have.
