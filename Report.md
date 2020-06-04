@@ -43,3 +43,9 @@ The rubric asks to obtain an average score of 13 for 100 episodes. I increased t
 After training, the saved model was loaded and tested for 20 episodes. Here are the results of such testing. You can see that on average, the scores are greater than 15. In the graph, the blue lines connect the scores in each episode.
 
 ![Plot of rewards (testing)](/images/plot-of-rewards-testing.png)
+
+
+
+Ideas about Future Works:
+
+1. I want to apply DeepReinforcement Learning in the field of Hydroinformatics and publish my researches in Springer Water. I want to be the best RL Research Assistant my professor will ever have.
