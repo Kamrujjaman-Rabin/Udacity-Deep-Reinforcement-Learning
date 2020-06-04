@@ -61,8 +61,6 @@ Execute this command in order to install the software specified in `requirements
 ```pip -q install ./python```<br/>
 This command is executed at the beginning of the Jupyter notebook [Navigation.ipynb](Navigation.ipynb).
 
-If you have troubles when installing this project, you can write me at:<br/>
-https://www.linkedin.com/in/jckuri/
 
 ## Instructions
 
